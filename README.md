@@ -19,7 +19,14 @@ The agenda for the cs-studio/phoebus developers meeting is avaible for suggestio
 
 ### Accomodations:  
 
+**Courtyard by Marriott Long Island MacArthur Airport**  
+5000 Express Dr S, Ronkonkoma, NY 11779  
 
+**Comfort Inn**  
+2695 NY-112, Medford, NY 11763  
+
+**Hampton Inn Long Island - Brookhaven**  
+2000 N Ocean Ave, Farmingville, NY 11738  
 
 ### Contact:  
 kunalshroff9@gmail.com
