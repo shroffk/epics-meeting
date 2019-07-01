@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## EPICS Developers meeting
 
-You can use the [editor on GitHub](https://github.com/shroffk/epics-meeting/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+NSLS2 will be hosting two developers meeting in Oct, 2019. The meetings will be hosted prior to the EPICS collaboration meeting in brooklyn.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Location:  
+National Synchrotron Light Source II
+Brookhaven National Lab
+Upton, NY 11973
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Calendar:  
+**Start:** 2nd Oct, 2019.  
+**End:** 4th Oct, 2019.
 
-```markdown
-Syntax highlighted code block
+### Agenda:  
+The agenda for the epics core developers meeting is avaible for suggestions & comments [here](https://docs.google.com/document/d/1XmsytQm-9YVF0LBQLa8qRfEoXb6J_mJ53XFGR98cXo4/edit?usp=sharing).  
 
-# Header 1
-## Header 2
-### Header 3
+The agenda for the cs-studio/phoebus developers meeting is avaible for suggestions & comments [here](https://docs.google.com/document/d/15pWgpeu6hEeLFEEo0Un_U-Wqq0kUdP5b_-Y_mOPKfGw/edit?usp=sharing).  
 
-- Bulleted
-- List
+### Accomodations:  
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shroffk/epics-meeting/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact:  
+kunalshroff9@gmail.com
