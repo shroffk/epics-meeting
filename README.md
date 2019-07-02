@@ -1,3 +1,5 @@
+![EPICS_HOME_v05_2544x502.jpg]
+
 ## EPICS Developers meeting
 
 NSLS2 will be hosting two developer meetings in Oct, 2019. The meetings will be hosted prior to the EPICS collaboration meeting in brooklyn.
