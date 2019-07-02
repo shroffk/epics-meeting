@@ -1,4 +1,4 @@
-![EPICS_HOME_v05_2544x502.jpg]
+![Home](/EPICS_HOME_v05_2544x502.jpg)
 
 ## EPICS Developers meeting
 
