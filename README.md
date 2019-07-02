@@ -34,7 +34,7 @@ Unfortunately, due to the lack of public transportation a rental car is strongly
 
 ### Registration:  
 
-Since the meeting will be held on-site, we will have to fill out a few froms regarding your visit. If you are interested in attending the meeting please contact us as soon as possible so that we can start the guest registration process.
+Since the meeting will be held on-site, we are required to register your visit. If you are interested in attending the meeting please contact us as soon as possible so that we can start the guest registration process.
 
 ### Contact:  
 kunalshroff9@gmail.com
