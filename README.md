@@ -1,6 +1,6 @@
 ## EPICS Developers meeting
 
-NSLS2 will be hosting two developers meeting in Oct, 2019. The meetings will be hosted prior to the EPICS collaboration meeting in brooklyn.
+NSLS2 will be hosting two developer meetings in Oct, 2019. The meetings will be hosted prior to the EPICS collaboration meeting in brooklyn.
 
 ### Location:  
 National Synchrotron Light Source II
@@ -27,6 +27,12 @@ The agenda for the cs-studio/phoebus developers meeting is avaible for suggestio
 
 **Hampton Inn Long Island - Brookhaven**  
 2000 N Ocean Ave, Farmingville, NY 11738  
+
+Unfortunately, due to the lack of public transportation a rental car is strongly recommended.
+
+### Registration:  
+
+Since the meeting will be held on-site, we will have to fill out a few froms regarding your visit. If you are interested in attending the meeting please contact us as soon as possible so that we can start the guest registration process.
 
 ### Contact:  
 kunalshroff9@gmail.com
