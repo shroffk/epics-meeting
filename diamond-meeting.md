@@ -15,7 +15,9 @@ OX11 0DE
 
 
 ### Calendar:
+
 **Start:** 10th February 2020.
+
 **End:** 14th February 2020.
 
 ### Agenda:
@@ -26,7 +28,13 @@ The agenda for the cs-studio/phoebus developers meeting will be available shortl
 ### Accomodation:
 
 **Ridgeway House**
+
+Ridgeway house is on the Harwell Campus, but offers limited scope for entertainment or
+eating out.
+
 https://www.ridgewayhousehotel.com/
+
+**Other**
 
 There are many accommodation options in Oxford.
 
@@ -36,6 +44,8 @@ http://sciencetransitshuttle.co.uk/timetables/
 
 ### Public Transport
 
+See Diamond's Location page for details on public transport options:
+https://www.diamond.ac.uk/Home/Directions.html
 
 
 ### Registration:
